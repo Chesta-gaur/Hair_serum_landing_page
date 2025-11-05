@@ -406,13 +406,13 @@ section {
   margin-bottom: 0;
 }
 .img1 {
-  background-image: url("/images/de7bc2f3f4213cc712f6ed67af6521d3.jpg");
+  background-image: url("images/de7bc2f3f4213cc712f6ed67af6521d3.jpg");
 }
 .img2 {
-  background-image: url("/images/side-view-woman-hair-slugging-night-routine.jpg");
+  background-image: url("images/side-view-woman-hair-slugging-night-routine.jpg");
 }
 .img3 {
-  background-image: url("/images/2dd720c1de3674672429d644a80fc386.jpg");
+  background-image: url("images/2dd720c1de3674672429d644a80fc386.jpg");
 }
 /* Overlay Text on Image */
 .overlay-text {
@@ -498,7 +498,7 @@ section {
 
 /* sign up form */
 .signup-section {
-  background-image: url("/images/3f4d7914d1aae1b4ee06cb2c70cb7ca3.jpg");
+  background-image: url("images/3f4d7914d1aae1b4ee06cb2c70cb7ca3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -645,3 +645,4 @@ section {
   font-size: 12px;
   color: gray;
 }
+
